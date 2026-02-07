@@ -1,0 +1,9 @@
+streamlit
+pandas
+duckdb
+openai
+langchain
+chromadb
+pypdf
+tiktoken
+sentence-transformers
