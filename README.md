@@ -183,9 +183,9 @@ The dashboard will open in your browser where you can ask business questions abo
 ## Output
 
 <img width="1266" height="710" alt="Screenshot 2026-02-12 210415" src="https://github.com/user-attachments/assets/fee3e2b5-5e46-4875-9acf-eabb280f166d" />
-<img width="1277" height="322" alt="Screenshot 2026-02-12 210510" src="https://github.com/user-attachments/assets/b09f8791-f30f-4558-b973-696ca6605fd5" />
-<img width="1169" height="843" alt="Screenshot 2026-02-12 210502" src="https://github.com/user-attachments/assets/8eb3f1f6-5ca4-4c09-8df5-79634a670629" />
 <img width="1239" height="327" alt="Screenshot 2026-02-12 210422" src="https://github.com/user-attachments/assets/abf0a240-dc61-4306-9e5a-2084604bf140" />
+<img width="1169" height="843" alt="Screenshot 2026-02-12 210502" src="https://github.com/user-attachments/assets/8eb3f1f6-5ca4-4c09-8df5-79634a670629" />
+<img width="1277" height="322" alt="Screenshot 2026-02-12 210510" src="https://github.com/user-attachments/assets/b09f8791-f30f-4558-b973-696ca6605fd5" />
 
 ---
 
